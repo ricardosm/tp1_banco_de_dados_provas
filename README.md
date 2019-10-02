@@ -1,6 +1,6 @@
 # tp1_banco_de_dados_provas
 
-Esse repositório contém agumas provas e gabaritos de alguns anos do ENADE.
+Esse repositório contém algumas provas e gabaritos de alguns anos do ENADE.
 
 Além disso, também contém pastas de imagens referentes as provas que ocorream nesses anos.
 
@@ -24,7 +24,7 @@ Exemplo:
 
 4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome:
 
-            "Administração_Enade_2012_QUESTÃO 05_2.png" 
+            Administração_Enade_2012_QUESTÃO 05_2.png 
             
             
             
