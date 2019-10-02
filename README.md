@@ -28,4 +28,5 @@ Exemplo:
             
             
 OBSERVAÇÂO:
-Todas as tabelas e gráficos das provas é necessário gerar uma imagem no formato .png. Pois, é justamente esse tipo de objeto que o parser não consegue identificar no arquivo pdf.
+Para todas as tabelas e gráficos das provas faz-se necessário gerar uma imagem no formato .png. 
+É justamente esse tipo de objeto que o parser não consegue identificar no arquivo pdf.
