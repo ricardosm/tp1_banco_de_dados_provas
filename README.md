@@ -6,7 +6,8 @@ Além disso, também contém pastas de imagens referentes as provas que ocorream
 
 As imagens contidas nessas pastas foram extraídas automaticamente por meio do parser criado para o trabalho.
 
-Porém, o problema: 
+Porém, o problema é:
+
 O parser não consegue identificar certos tipos de imagens, gráficos e tabelas contidas nos pdfs das provas.
 
 Diante disso, é necessário fazer o seguinte:
