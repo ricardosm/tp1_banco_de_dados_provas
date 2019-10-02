@@ -11,12 +11,12 @@ O parser não consegue identificar certos tipos de imagens, gráficos e tabelas 
 
 Diante disso, é necessário fazer o seguinte:
 
-      1. Para cada um dos anos (2012, 2013 e 2016) analisar prova por prova para verificar quais imagens, gráficos ou tabelas não foram devidamente exportados automaticamente pelo parser. 
+1. Para cada um dos anos (2012, 2013 e 2016) analisar prova por prova para verificar quais imagens, gráficos ou tabelas não foram devidamente exportados automaticamente pelo parser. 
 
-      2. Para aquelas imagens, gráficos ou tabelas que não foram exportadas, deve ser tira um print "captura da imagem" no formato .png e salvar devidamente na pasta de imagens do devido ano da prova.
+2. Para aquelas imagens, gráficos ou tabelas que não foram exportadas, deve ser tira um print "captura da imagem" no formato .png e salvar devidamente na pasta de imagens do devido ano da prova.
 
-      3. Além disso, para cada imagem, gráfico ou tabela que for salvo, deve utilizar o mesmo padrão de nomenclatura:
+3. Além disso, para cada imagem, gráfico ou tabela que for salvo, deve utilizar o mesmo padrão de nomenclatura:
       Nome do curso_Enade_ANO_QUESTÂO XX_NUMERO DA IMAGEM NA QUESTAO.png
 
 Exemplo: 
-      4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome "Administração_Enade_2012_QUESTÃO 05_2.png" 
+4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome "Administração_Enade_2012_QUESTÃO 05_2.png" 
