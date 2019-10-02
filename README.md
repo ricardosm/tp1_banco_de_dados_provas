@@ -14,7 +14,7 @@ Diante disso, é necessário fazer o seguinte:
 
 1. Para cada um dos anos (2012, 2013 e 2016) analisar prova por prova para verificar quais imagens, gráficos ou tabelas não foram devidamente exportados automaticamente pelo parser. 
 
-2. Para aquelas imagens, gráficos ou tabelas que não foram exportadas, deve ser tira um print "captura da imagem" no formato .png e salvar devidamente na pasta de imagens do devido ano da prova.
+2. Para aquelas imagens, gráficos ou tabelas que não foram exportadas, deve ser tirado um print (captura da "imagem") no formato .png e salvar a imagem gerada na pasta de imagens do devido ano da prova.
 
 3. Além disso, para cada imagem, gráfico ou tabela que for salvo, deve utilizar o mesmo padrão de nomenclatura:
       Nome do curso_Enade_ANO_QUESTÂO XX_NUMERO DA IMAGEM NA QUESTAO.png
