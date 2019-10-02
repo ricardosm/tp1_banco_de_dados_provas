@@ -2,7 +2,7 @@
 
 Esse repositório contém agumas provas e gabaritos de alguns anos do ENADE.
 
-Além disso, também contém pasta de imagens refete as provas que ocorream nesses anos.
+Além disso, também contém pastas de imagens referentes as provas que ocorream nesses anos.
 
 As imagens contidas nessas pastas foram extraídas automaticamente por meio do parser criado para o trabalho.
 
