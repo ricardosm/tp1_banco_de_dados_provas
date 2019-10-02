@@ -21,7 +21,8 @@ Diante disso, é necessário fazer o seguinte:
             Nome do curso_Enade_ANO_QUESTÂO XX_NUMERO DA IMAGEM NA QUESTAO.png
 
 Exemplo: 
-4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome:]
+
+4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome:
 
             "Administração_Enade_2012_QUESTÃO 05_2.png" 
             
