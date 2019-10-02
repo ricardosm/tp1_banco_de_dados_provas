@@ -27,7 +27,10 @@ Exemplo:
             "Administração_Enade_2012_QUESTÃO 05_2.png" 
             
             
+            
+            
 OBSERVAÇÂO:
+
 Para todas as tabelas e gráficos das provas faz-se necessário gerar uma imagem no formato .png. 
 
 É justamente esse tipo de objeto que o parser não consegue identificar no arquivo pdf.
