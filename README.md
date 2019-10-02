@@ -16,8 +16,14 @@ Diante disso, é necessário fazer o seguinte:
 
 2. Para aquelas imagens, gráficos ou tabelas que não foram exportadas, deve ser tirado um print (captura da "imagem") no formato .png e salvar a imagem gerada na pasta de imagens do devido ano da prova.
 
-3. Além disso, para cada imagem, gráfico ou tabela que for salvo, deve utilizar o mesmo padrão de nomenclatura:
-      Nome do curso_Enade_ANO_QUESTÂO XX_NUMERO DA IMAGEM NA QUESTAO.png
+3. Além disso, para cada imagem, gráfico ou tabela que for salvo, deve ser utilizado o seguinte padrão de nomenclatura:
+
+            Nome do curso_Enade_ANO_QUESTÂO XX_NUMERO DA IMAGEM NA QUESTAO.png
 
 Exemplo: 
-4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome "Administração_Enade_2012_QUESTÃO 05_2.png" 
+4. A segunda imagem da QUESTÂO 05 identificada na prova de Administração do ano 2012 deve ser salva na pasta "imagens_2012" com o seguinte nome:
+            "Administração_Enade_2012_QUESTÃO 05_2.png" 
+            
+            
+OBSERVAÇÂO:
+Todas as tabelas e gráficos das provas é necessário gerar uma imagem no formato .png. Pois, é justamente esse tipo de objeto que o parser não consegue identificar no arquivo pdf.
